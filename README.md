@@ -1,12 +1,12 @@
 # BastardosVideoGame
-Descripcion:
-Bastardos es un Videojuego de plataforma 2D hecho en unity en donde cuenta la historia de un joven polaco durante la epoca de la segunda guerra mundial en donde los nazis invaden su pais y hace todo lo posible para liberar a su pueblo.
+Descripción:
+Bastardos es un Videojuego de plataforma 2D hecho en unity en donde cuenta la historia de un joven polaco durante la época de la segunda guerra mundial en donde los nazis invaden su país y hacen todo lo posible para liberar a su pueblo.
 
-Objetivo: La creacion de este videojuego era poner en practica las habilidades y conocimientos de manejo de motores grafico en especifico el motor grafico Unity 
+Objetivo: La creación de este videojuego era poner en práctica las habilidades y conocimientos de manejo de motores gráfico en especifico el motor gráfico Unity 
 
-Lenguajes/Herramientas: Todo el videojuego fue hecho en el motor grafico Unity version 2019.1.0b1, usando el lenguaje de programacion  C# Y C++ utilizando el editor de codigo Visual Studio Code.
+Lenguajes/Herramientas: Todo el videojuego fue hecho en el motor gráfico Unity version 2019.1.0b1, usando el lenguaje de programación  C# Y C++ utilizando el editor de codigo Visual Studio Code.
 
-Librerias/metodologias: Para el tema de las animaciones y modelado en 2D se usarion librerias disponibles y gratuitas dentro del mismo Unity 
+Librerias/metodologías: Para el tema de las animaciones y modelado en 2D se usaron librerías disponibles y gratuitas dentro del mismo Unity 
 
 
 
